@@ -1,0 +1,7 @@
+hr {
+  border: 6px gray dotted;
+  width: 100px;
+  border-width: 5px;
+  border-style: dotted none none;
+  height: 0;
+}
